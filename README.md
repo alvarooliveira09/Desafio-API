@@ -1,6 +1,6 @@
 # Desafio 2 - Agência de Viagens
 
-## b) Instruções para execução (Windows 11):
+## Instruções para execução (Windows 11):
 
 1. Tenha instalado previamente os aplicativos Docker Desktop ([docker.com](https://www.docker.com/)) e o IntelliJ Community ([jetbrains.com/idea/download](https://www.jetbrains.com/idea/download/)).
 
