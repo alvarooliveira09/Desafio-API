@@ -6,8 +6,7 @@
 
 2. Realize download dos arquivos deste repositório.
    
-3. Docker container:
-  a) Execute o seguinte comando para criar o Docker container:
+3. Execute o seguinte comando para criar o Docker Container:
 ```bash
 docker run --name desafio2 -e POSTGRES_PASSWORD=SenhaTemporaria2025 -d -p 5432:5432 postgres
 ```
